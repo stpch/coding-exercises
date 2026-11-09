@@ -4,7 +4,7 @@ import './lib/theme.css'
 
 const App: FC = () => (
     <div className={styles.root}>
-        <h1>react-vite-template</h1>
+        <h1>Coding exercises</h1>
     </div>
 )
 
