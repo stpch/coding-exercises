@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "erasableSyntaxOnly": true,
+        "isolatedModules": true,
+        "jsx": "react-jsx",
+        "module": "esnext",
+        "moduleResolution": "bundler",
+        "noEmit": true,
+        "noUnusedParameters": true,
+        "paths": {
+            "@/*": [
+                "./src/*"
+            ]
+        },
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "target": "esnext",
+        "types": [
+            "vite/client",
+            "vitest/globals"
+        ]
+    }
+}
