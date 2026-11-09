@@ -1,3 +1,3 @@
-# react-vite-template
+# coding-exercises
 
-Project template for frontend projects based on React and Vite.
+Coding exercises generated and graded by Claude.
