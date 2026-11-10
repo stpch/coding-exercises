@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    /* https://tailwindcss.com/docs/theme */
+}
+
+@layer base {
+    /* https://tailwindcss.com/docs/preflight#extending-preflight */
+}

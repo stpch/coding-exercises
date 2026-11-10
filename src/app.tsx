@@ -1,6 +1,6 @@
-import { FC } from 'react'
+import {FC} from 'react'
 import styles from './app.module.css'
-import './lib/theme.css'
+import './lib/global.css'
 
 const App: FC = () => (
     <div className={styles.root}>

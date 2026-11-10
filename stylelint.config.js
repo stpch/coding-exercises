@@ -2,6 +2,7 @@ export default {
     extends: [
         'stylelint-config-recommended',
         'stylelint-config-idiomatic-order',
+        'stylelint-config-tailwindcss',
     ],
     plugins: ['stylelint-prettier'],
     rules: {
